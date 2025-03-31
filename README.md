@@ -8,6 +8,7 @@ A simple Android application for tracking workout sessions. This app allows user
 - Track sets, reps, and weights for each exercise
 - View workout history
 - Delete previous workouts
+- Track progress with graphs and visualizations
 - Simple and intuitive user interface
 
 ## Screenshots
